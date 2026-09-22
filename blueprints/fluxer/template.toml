@@ -47,7 +47,7 @@ FLUXER_KLIPY_API_KEY = ""
 [config]
 env = [
   "# VAPID KEYS SETUP:",
-  "# 1. Run in your terminal: 'npx web-push generate-vapid-keys'",
+  "# 1. Run in your terminal: 'npx web-push generate-vapid-keys'.",
   "# 2. Paste the generated public and private keys into the FLUXER_VAPID_PUBLIC_KEY and FLUXER_VAPID_PRIVATE_KEY variables.",
   "",
   "# HTTPS SETUP INSTRUCTIONS:",
